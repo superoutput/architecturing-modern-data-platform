@@ -1,0 +1,2 @@
+# architecturing-modern-data-platform
+Next generation data platform and architectural patterns, in order to solve real-time high volume data problem with low latency response time, we need data platform that has capable of capturing, ingesting, streaming and optionally storing data for analytics. Most of the real-time streaming data platforms will have short lived data after processing to build data predictive modeling that enable marketing to offer real-time recommendations.
